@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 😄 I'm Anushan, An Undergraduate, Faculty of Information Technology, University of Moratuwa.
 - 🌱 I’m currently learning ... Web Development
