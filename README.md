@@ -14,3 +14,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am talking with mechines only.
 
+![Anushan's github stats](https://github-readme-stats.vercel.app/api?username=anushan1508&show_icons=true&theme=radical)
