@@ -32,10 +32,9 @@
 
 ## What I'm currently learning 📚
 
-- TypeScript
+- JavaScript
 - React.js
 - React Native
-- Ruby
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
