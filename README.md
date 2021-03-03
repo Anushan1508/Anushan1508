@@ -34,7 +34,8 @@
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
-!<p align="center">[Anushan's github stats](https://github-readme-stats.vercel.app/api?username=anushan1508&show_icons=true&theme=radical)
+![Anushan's github stats](https://github-readme-stats.vercel.app/api?username=anushan1508&show_icons=true&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anushan1508&show_icons=true&theme=radical" alt="Anushan_S" />
 
 Latest Blogs:
 
