@@ -29,7 +29,7 @@
 - JavaScript
 - React.js
 - React Native
--
+
 <a href="https://twitter.com/Anushan1508">
   <img align="left" alt="Anushan Santhirakumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
