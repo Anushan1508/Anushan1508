@@ -8,7 +8,7 @@
 </a>
 
 <!--Here are some ideas to get you started:-->
-
+- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 - 😄 I'm Anushan, An Undergraduate, Faculty of Information Technology, University of Moratuwa.
 - 🌱 I’m currently learning ... Web Development
 - 👯 I’m looking to collaborate on ... React.js
@@ -18,7 +18,6 @@
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/anushan-s/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am talking with mechines only.
-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 **Languages and Tools:**  
 
