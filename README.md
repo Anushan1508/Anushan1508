@@ -7,7 +7,8 @@
   <img align="left" alt="Anushan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/anushan.rock/">
-  <img align="left" alt="Anushan's Facebook" width="22px" src="Facebook_f_logo_(2019).svg" />
+  <img align="left" alt="Anushan's Facebook" width="22px" src="Facebook_f_logo_(2019).svg" 
+       />
 </a>
 
 <!--Here are some ideas to get you started:-->
