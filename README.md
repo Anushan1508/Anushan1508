@@ -18,7 +18,7 @@
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/anushan-s/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am talking with mechines only.
-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 **Languages and Tools:**  
 
