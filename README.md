@@ -30,10 +30,11 @@
 - React.js
 - React Native
 
+
 <a href="https://twitter.com/Anushan1508">
   <img align="left" alt="Anushan Santhirakumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
--<a href="https://www.linkedin.com/in/anushan-s/">
+<a href="https://www.linkedin.com/in/anushan-s/">
   <img align="left" alt="Anushan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
