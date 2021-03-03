@@ -18,5 +18,5 @@
 
 Latest Blogs:
 
-![my_blogs](https://anushan1508.medium.com/why-choose-reactjs-in-2021-9756f4109b0a)
-![my blogs](https://anushan1508.medium.com/what-is-git-and-how-to-use-it-afd313d0883c)
+![Why Choose ReactJS in 2021?](https://anushan1508.medium.com/why-choose-reactjs-in-2021-9756f4109b0a)
+![What is Git and how to use Git?](https://anushan1508.medium.com/what-is-git-and-how-to-use-it-afd313d0883c)
