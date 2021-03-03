@@ -1,11 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/Anushan1508">
-  <img align="left" alt="Anushan Santhirakumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
--<a href="https://www.linkedin.com/in/anushan-s/">
-  <img align="left" alt="Anushan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 <!--Here are some ideas to get you started:-->
 - 😄 I'm Anushan, An Undergraduate, Faculty of Information Technology, University of Moratuwa.
@@ -34,6 +29,13 @@
 - JavaScript
 - React.js
 - React Native
+-
+<a href="https://twitter.com/Anushan1508">
+  <img align="left" alt="Anushan Santhirakumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+-<a href="https://www.linkedin.com/in/anushan-s/">
+  <img align="left" alt="Anushan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
