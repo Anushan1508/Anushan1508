@@ -15,3 +15,8 @@
 - ⚡ Fun fact: ... I am talking with mechines only.
 
 ![Anushan's github stats](https://github-readme-stats.vercel.app/api?username=anushan1508&show_icons=true&theme=radical)
+
+Latest Blogs:
+
+![my_blogs](https://anushan1508.medium.com/why-choose-reactjs-in-2021-9756f4109b0a)
+![my blogs](https://anushan1508.medium.com/what-is-git-and-how-to-use-it-afd313d0883c)
