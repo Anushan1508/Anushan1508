@@ -13,7 +13,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am talking with mechines only.
 
-<img src="code.gif">
+<img src="code.gif" width=50% height=50%>
 
 **Languages and Tools:**  
 
