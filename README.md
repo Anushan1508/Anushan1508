@@ -17,8 +17,8 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://img.icons8.com/color/50/000000/javascript.png"/></code>
-<code><img height="30" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
+<code><img height="30" src="./"/></code>
+<code><img height="30" src="./png/js.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
