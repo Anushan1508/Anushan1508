@@ -44,6 +44,7 @@
 - JavaScript
 - React.js
 - React Native
+- Flutter
 
 
 <a href="https://twitter.com/Anushan1508">
