@@ -60,6 +60,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anushan1508&show_icons=true&theme=gotham" alt="Anushan_S" />
+<p align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anushan1508&layout=compact&theme=material-palenight"  alt="Anushan_S" />
 
 Latest Blogs:
 
