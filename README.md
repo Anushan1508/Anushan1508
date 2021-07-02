@@ -55,7 +55,7 @@
 </a>
 <br><br>
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
 
 
