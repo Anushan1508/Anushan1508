@@ -6,7 +6,7 @@
 
 
 <!--Here are some ideas to get you started:-->
-- 😄 I'm Anushan, Faculty of Information Technology, University of Moratuwa.
+- 😄 I'm Anushan Santhirakumar, Faculty of Information Technology, University of Moratuwa.
 - 🌱 Software Engineer with 2+ years experience including Full stack development
 - 👯 I’m looking to collaboratation
 <!--- 🤔 I’m looking for help with ... -->
