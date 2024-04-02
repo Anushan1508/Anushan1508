@@ -13,7 +13,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/anushan-s/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am talking with mechines only.
 
 <img src="code.gif" width=45% height=45% align=right margin-top=10%>
 
