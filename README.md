@@ -6,10 +6,9 @@
 
 
 <!--Here are some ideas to get you started:-->
-- 😄 I'm Anushan, An Undergraduate, Faculty of Information Technology, University of Moratuwa.
-- 🌱 I’m currently learning ... Web Development
-- 👯 I’m looking to collaborate on ... React.js
-- :pencil2:  I blog in : [Anushan Blogs](https://medium.com/@anushan1508)
+- 😄 I'm Anushan, Faculty of Information Technology, University of Moratuwa.
+- 🌱 Software Engineer with 2+ years experience including Full stack development
+- 👯 I’m looking to collaboratation
 <!--- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/anushan-s/)
@@ -21,7 +20,7 @@
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
+[![Springboot Badge](https://img.shields.io/badge/-Springboot-61DBFB?style=for-the-badge&labelColor=black&logo=spring&logoColor=61DBFB)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
