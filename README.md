@@ -45,13 +45,5 @@
 
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anushan1508&show_icons=true&theme=gotham" alt="Anushan_S" />
 <p align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anushan1508&layout=compact&theme=material-palenight"  alt="Anushan_S" />
-
-Latest Blogs:
-
-![Why Choose ReactJS in 2021?](https://anushan1508.medium.com/why-choose-reactjs-in-2021-9756f4109b0a)
-
-![What is Git and how to use Git?](https://anushan1508.medium.com/what-is-git-and-how-to-use-it-afd313d0883c)
