@@ -39,10 +39,9 @@
 
 ## What I'm currently learning 📚
 
-- JavaScript
-- React.js
-- React Native
-- Flutter
+- Machine Learning
+- Data Science
+- Research Projects
 
 
 <a href="https://twitter.com/Anushan1508">
