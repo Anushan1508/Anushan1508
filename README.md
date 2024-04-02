@@ -14,8 +14,6 @@
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/anushan-s/)
 - 😄 Pronouns: ... He/Him
 
-<img src="code.gif" width=45% height=45% align=right margin-top=10%>
-
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
